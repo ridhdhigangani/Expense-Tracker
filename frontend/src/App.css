@@ -1,0 +1,146 @@
+.login-container {
+  background-color: #f2f2f2;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 400px;
+}
+
+.login-title {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.login-form {
+  margin-top: 20px;
+}
+
+.login-submit-btn {
+  margin-top: 20px;
+}
+
+.registration-container {
+  background-color: #f8f8f8;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 400px;
+}
+
+.registration-title {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.registration-form {
+  margin-top: 20px;
+}
+
+.registration-submit-btn {
+  margin-top: 20px;
+}
+
+.container1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+}
+
+.left-side {
+  flex: 1;
+}
+
+.right-side {
+  margin-left: 20px;
+}
+
+.button {
+  color: #fbeaeb;
+  background-color:#2F3C7E;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 25px;
+}
+
+.button:hover {
+  background-color: #fbeaeb;
+  color: #2F3C7E;
+}
+
+/* Custom CSS for Ant Design Table */
+.ant-table {
+  padding: 16px; /* Adjust the value as per your desired padding */
+}
+
+/* Custom CSS for Ant Design Table */
+.ant-table {
+  padding: 16px; /* Adjust the value as per your desired padding */
+}
+
+
+.ant-table-tbody > tr.ant-table-row:hover > td {
+  background-color: #c2bfbf; /* Darker background color on hover */
+  color: black;
+  font-weight: bold;
+}
+
+.ant-table-tbody > tr.ant-table-row:hover > td > div {
+  color: #ffffff; /* Lighter text color on hover */
+}
+
+.Income {
+  font-weight: bold;
+  color: green;
+}
+
+.Expense {
+  font-weight: bold;
+  color: red;
+}
+
+/* styles.css */
+
+.left-side {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between;  */
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.types{
+  margin-left: 290px;
+}
+
+/* styles.css */
+
+.container {
+  padding: 20px;
+}
+
+.box {
+  background-color: #2F3C7E;
+  border: 1px solid #ccc;
+  color: #fbeaeb;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 5px;
+  height: 65px;
+}
+.box:hover{
+  background-color: #fbeaeb;
+  color: #2F3C7E;
+}
+.box p{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.nav-item{
+  font-size: 18px;
+}
